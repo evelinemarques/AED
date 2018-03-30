@@ -1,6 +1,6 @@
     #include <stdio.h>
     #include <stdlib.h>
-    //Vai lavar a louça//
+    //Vai voce//
     int aux = 0;
     int naturais(int numero){
         if(aux < numero){
